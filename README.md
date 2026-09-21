@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jactoms
 - 👀 I’m interested in AI,ML,Computer vision, Embedded systems
 - 🌱 I’m currently learning Microcontrollers.
-- 💞️ I’m looking to collaborate on ...
+
 
 
 <!---
